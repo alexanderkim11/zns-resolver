@@ -1,0 +1,10 @@
+{
+    "program": "zns_resolver.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpBHqgSNWBp3BhkMZEyCBwuz7be6ZhD7CdXk55ou3U7x7J",
+        "address": "aleo1lpw9wn92sl4k35zhl7vklmg77cz2x2mmlxsmfhrr85y27tq0wg9qu2lqcw"
+    },
+    "license": "MIT"
+}
